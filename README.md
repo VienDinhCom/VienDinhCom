@@ -2,7 +2,7 @@
 
 Experienced Developer specializing in **React.js**, **Next.js**, **TypeScript**, **GraphQL**, and **PostgreSQL**. Proven at building scalable **web applications** and **SaaS products**. Recognized with **1.4k GitHub stars** for impactful open-source contributions.
 
-I'm currently available for remote work and would love to hear from you.Please don't hesitate to reach out.
+I'm currently available for remote work and would love to hear from you. Please don't hesitate to reach out.
 
 [![Website](https://img.shields.io/badge/-Website-555?style=flat&logo=webflow)](https://viendinh.vercel.app)
 [![Email](https://img.shields.io/badge/-Email-555?style=flat&logo=googlemessages)](mailto:maxvien@gmail.com)
