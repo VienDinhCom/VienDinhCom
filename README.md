@@ -1,4 +1,4 @@
-# Full Stack Developer
+## Full Stack Developer
 
 Experienced Developer specializing in **React.js**, **Next.js**, **TypeScript**, **GraphQL**, and **PostgreSQL**. Proven at building scalable **web applications** and **SaaS products**. Recognized with **1.4k GitHub stars** for impactful open-source contributions.
 
