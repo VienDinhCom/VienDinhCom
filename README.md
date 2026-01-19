@@ -4,8 +4,5 @@ Experienced Developer specializing in **React.js**, **Next.js**, **TypeScript**,
 
 I'm currently available for remote work and would love to hear from you. Please don't hesitate to reach out.
 
-[![Website](https://img.shields.io/badge/-Website-555?style=flat&logo=webflow)](https://viendinh.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-555?style=flat&logo=googlemessages)](mailto:maxvien@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-555?style=flat&logo=logmein)](https://www.linkedin.com/in/viendinhcom)
-[![Twitter](https://img.shields.io/badge/-Twitter-555?style=flat&logo=x)](https://x.com/viendinhcom)
+[![Website](https://img.shields.io/badge/-Hire%20Me%20Now-555?style=flat&logo=logmein)](https://viendinh.vercel.app)
 [![GitHub](https://img.shields.io/github/stars/viendinhcom?style=flat&label=GitHub&logo=github)](https://github.com/viendinhcom)
