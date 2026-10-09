@@ -6,4 +6,4 @@ I'm currently available for remote work and would love to hear from you. Please 
 
 [![Resume](https://img.shields.io/badge/-Hire%20Me%20Now-555?style=flat&logo=logmein)](https://work.viendinh.com/)
 [![GitHub](https://img.shields.io/github/stars/viendinhcom?style=flat&label=GitHub&logo=github)](https://github.com/viendinhcom)
-[![Blog](https://img.shields.io/github/stars/viendinhcom?style=flat&label=Blog&logo=rocket)]([https://github.com/viendinhcom](https://viendinh.com/))
+[![Blog](https://img.shields.io/badge/-Khởi%20Nghiệp%20Tinh%20Gọn-555?style=flat&logo=rocket)](https://work.viendinh.com/)
